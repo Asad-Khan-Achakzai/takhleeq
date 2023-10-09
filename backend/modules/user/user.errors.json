@@ -1,0 +1,14 @@
+{
+  "1001": {
+    "msg": "username not exist."
+  },
+  "1003": {
+    "msg": "Password does not exit"
+  },
+  "1004": {
+    "msg": "Password must be at least 8 characters"
+  },
+  "1006": {
+    "msg": "Authentication failed"
+  }
+}
